@@ -1,0 +1,23 @@
+# Build
+/dist
+/out-tsc
+.idea/*
+
+# Environment
+.env
+
+# Dependencies
+/node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Misc
+/tmp
+/.pnp
+.pnp.js
+.DS_Store
+.vscode/*
