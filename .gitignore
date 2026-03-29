@@ -21,3 +21,4 @@ yarn-error.log*
 .pnp.js
 .DS_Store
 .vscode/*
+.idea/
