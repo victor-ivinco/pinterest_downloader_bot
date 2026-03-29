@@ -22,7 +22,7 @@ A Telegram bot that automatically extracts and sends media (photos and videos) f
 1. **Clone and install dependencies:**
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/victor-ivinco/pinterest_downloader_bot.git
 cd pinterest
 npm install
 ```
